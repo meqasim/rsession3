@@ -43,4 +43,4 @@ jobs:
         
       # Deploying on Surge
       - name: deploying on surge
-        run: surge ./build https://bootcamp2020rsession3.surge.sh --token{{secrets.SSESSION3}}
+        run: surge ./build https://bootcamp2020qasimrsession3.surge.sh --token{{secrets.SSESSION3}}
