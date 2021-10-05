@@ -33,11 +33,11 @@ jobs:
       - name: Build react app
         run: |
           npm install
-          SESSION3=false npm run build
+          CI=false npm run build
           
           
       # Installing Surge
-      - name: Run a multi-line script
+      - name: installing Surge
         run: npm install -g surge
         
         
