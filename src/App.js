@@ -14,7 +14,7 @@ function App() {
           href="https://www.blockchain313.com"
           target="_blank"
         >
-          BlockChain Technology3216549871
+          BlockChain Technology 3216549871
         </a>
       </header>
     </div>
