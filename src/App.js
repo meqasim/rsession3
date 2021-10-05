@@ -7,14 +7,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         React App Session 3
+         React App Session 3  3216549871
         </p>
         <a
           className="App-link"
           href="https://www.blockchain313.com"
           target="_blank"
         >
-          BlockChain Technology 3216549871
+          BlockChain Technology
         </a>
       </header>
     </div>
