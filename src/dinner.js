@@ -1,11 +1,9 @@
-import react form 'react';``
-import './dinner';
-
-function dinner() {
+import React from 'react';
+function Dinner (){
     return (
-        <div>
-
-        </div>
-    )
+            <h1>this is dinner</h1>
+    );
 
 }
+
+export default Dinner;
